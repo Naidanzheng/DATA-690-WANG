@@ -1,2 +1,2 @@
 # DATA-690-WANG
-DATA 690 
+This responsitory contains materials and assignments for DATA 690.
