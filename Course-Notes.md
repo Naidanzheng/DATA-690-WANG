@@ -1,4 +1,12 @@
 # Assignment 1 
+
+## Reflection
+I have learned how to use Python in different ways: Colab, deepnote, Jupyter notebook.
+I have learned that the Github is a good way to share my projects with others.
+I have learned Statistics and visualization are important parts of data science.
+
+
+
 ## Chapter 2 Note
 #####    by <b>[Naidan Zheng](https://github.com/Naidanzheng)</b>
 
