@@ -1,4 +1,8 @@
 # Assignment 1 
+#####    by <b>[Naidan Zheng](https://github.com/Naidanzheng)</b>
+
+---
+
 
 ## Reflection
 I have learned how to use Python in different ways: Colab, deepnote, Jupyter notebook.
@@ -8,11 +12,9 @@ I have learned that the Github is a good way to share my projects with others.
 I have learned Statistics and visualization are important parts of data science.
 
 
+---
 
 ## Chapter 2 Note
-#####    by <b>[Naidan Zheng](https://github.com/Naidanzheng)</b>
-
----
 
 1. One of the major improvements over the standard Python shell is tab completion, found in many IDEs or other interactive computing analysis environments. While entering expressions in the shell, pressing the Tab key will search the namespace for any variables (objects, functions, etc.) matching the characters you have typed so far.
 
