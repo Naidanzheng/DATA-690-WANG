@@ -8,7 +8,7 @@
 
 2. Using a question mark (?) before or after a variable will display some general information about the object. ? has a final usage, which is for searching the IPython namespace in a manner similar to the standard Unix or Windows command line. A number of characters combined with the wildcard (*) will show all names matching the wildcard expression.
 
-3.The most foolproof methods are the %paste and %cpaste magic functions. %paste takes whatever text is in the clipboard and executes it as a single block in the shell.
+3. The most foolproof methods are the %paste and %cpaste magic functions. %paste takes whatever text is in the clipboard and executes it as a single block in the shell.
 
 4. One reason for IPython’s popularity in analytical computing is that it integrates well with data visualization and other user interface libraries like matplotlib. The %matplotlib magic function configures its integration with the IPython shell or Jupyter notebook. This is important, as otherwise plots you create will either not appear (notebook) or take control of the session until closed (shell).
 
